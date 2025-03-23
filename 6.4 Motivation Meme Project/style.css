@@ -1,0 +1,17 @@
+html
+{
+    background-color: black;
+}
+img
+{
+    position: fixed;
+    border: white solid;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+#text
+{
+    color: white;
+    font-family: "Libre Baskerville" , serif;
+}
